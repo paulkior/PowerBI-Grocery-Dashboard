@@ -32,7 +32,7 @@ This dashboard provides a **comprehensive snapshot of key business performance m
 - **Unique Customers:** 98.8K
 - **Total Orders:** 6.76 million
 - **Average Order Value:** $660.87
-- 
+  
 
 **Sales Trends Over Time**
 - A **line chart** visualizes **weekly sales trends**, helping businesses track fluctuations and detect patterns in revenue changes.
